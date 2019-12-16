@@ -51,4 +51,4 @@ $ factor
 factor: '210382109321821098210921832091821093280921821093210918329' is too large
 ```
 
-To terminate the program, you should send `EOF` (Ctrl+D on most terminals) to stdin of the program.
+To terminate the program, you should send `EOF` (Ctrl+D on most terminals) to the stdin.
