@@ -24,7 +24,7 @@ To run the docker image, please type:
 $ docker run -i rhofactor:v1
 ```
 
-It should behave exactly the same as `factor` in bsdgames. Except it accepts arbitrary precision integer as input
+It should behave exactly the same (up to the order of the output and it is probabilistic in nature) as `factor` in bsdgames. Except it accepts arbitrary precision integer as input
 
 ```
 $ docker run -i rhofactor:v1
